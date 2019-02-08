@@ -6,13 +6,13 @@ XML
 JSON
 Util
 Net
-Crypto
-NetSSL_OpenSSL
+rem Crypto
+rem NetSSL_OpenSSL
 NetSSL_Win
 Data
 Data/SQLite
-Data/ODBC
-Data/MySQL
+rem Data/ODBC
+rem Data/MySQL
 Zip
 PageCompiler
 PageCompiler/File2Page
